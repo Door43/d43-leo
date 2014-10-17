@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[leo:home|Door43 (leo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-leo|d43-leo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-leo/archive/master.zip|d43-leo.zip]]
+
+**Recent Changes**
+{{changes>ns = leo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/leo|Ethnologue data]]
+
